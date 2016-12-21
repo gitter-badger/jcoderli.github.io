@@ -6,11 +6,9 @@ I might post my new page. Although I don't actually have a real page at this mom
 The most probable reason you are even here is because you want to see some of dem gud stuffz. Well, right now, I'm sorry, I have no projejcts
 that are "raw" on my site at this moment. I really think this is a bad idea, promising something, but _I PROMISE_ I will add the projects!
 
-
-
 ### Blog?
 The third most probably reason you are here is because you want to see my blog on here. Well... Here's the problem. Anyone random can scroll
 around here and piece together who I am. How? Well I have a pretty good way, but **NOT SHARING THAT HERE**.
-
+But, if you want to check out my [https://jcoderli.github.io/journal/dec21-16](__*journal*__)
 ### *Make sure to bookmark this page!*
 
