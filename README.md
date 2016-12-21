@@ -1,5 +1,5 @@
 # Welcome to JCoderLi.GitHub.io!
-This site is currently in development! If I have been inactive for a long time, go to my "real" GitHub page:https://github.com/JCoderLi/jcoderli.github.io
+This site is currently in development! If I have been inactive for a long time, go to my "real" GitHub page: https://github.com/JCoderLi/jcoderli.github.io
 I might post my new page. Although I don't actually have a real page at this moment, you can check my pulse: https://github.com/JCoderLi/jcoderli.github.io/pulse, and if you see a spike of inactivity... FEEL FREE TO SPAM ME!
 
 ### My Projects!
