@@ -16,11 +16,11 @@ Make sure to bookmark this page!
 
 Checklist
 ####
-- [ x] Take advantage of Markdown
-- [] Have kewl animations
-- [] CSS this up!
-- [] JS this down!
-- [] HTML this middle!
-- [] Add a blog!
-- [ x] Add home page
+[x] Take advantage of Markdown
+[ ] Have kewl animations
+[ ] CSS this up!
+[ ] JS this down!
+[ ] HTML this middle!
+[ ] Add a blog!
+[x] Add home page
 
