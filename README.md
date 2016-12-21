@@ -10,17 +10,5 @@ that are "raw" on my site at this moment. I really think this is a bad idea, pro
 ### Blog?
 The third most probably reason you are here is because you want to see my blog on here. Well... Here's the problem. Anyone random can scroll
 around here and piece together who I am. How? Well I have a pretty good way, but **NOT SHARING THAT HERE**.
-###    
 
-Make sure to bookmark this page!
-
-Checklist
-####
-[x] Take advantage of Markdown
-[ ] Have kewl animations
-[ ] CSS this up!
-[ ] JS this down!
-[ ] HTML this middle!
-[ ] Add a blog!
-[x] Add home page
-
+### *Make sure to bookmark this page!*
