@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to JCoderLi.GitHub.io!
+This site is currently in development! If I have been inactive for a long time, go to my "real" [GitHub page] (https://github.com/JCoderLi/jcoderli.github.io)
+I might post my new page. Although I don't actually have a real page at this moment, you can check my [pulse] (https://github.com/JCoderLi/jcoderli.github.io/pulse),
+and if you see a spike of inactivity... FEEL FREE TO SPAM ME!
 
-You can use the [editor on GitHub](https://github.com/JCoderLi/jcoderli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### My Projects!
+The most probable reason you are even here is because you want to see some of dem gud stuffz. Well, right now, I'm sorry, I have no projejcts
+that are "raw" on my site at this moment. I really think this is a bad idea, promising something, but _I PROMISE_ I will add the projects!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Blog?
+The third most probably reason you are here is because you want to see my blog on here. Well... Here's the problem. Anyone random can scroll
+around here and piece together who I am. How? Well I have a pretty good way, but **NOT SHARING THAT HERE**.
+###    
 
-### Markdown
+Make sure to bookmark this page!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Checklist
+####
+-[x] Take advantage of Markdown
+-[] Have kewl animations
+-[] CSS this up!
+-[] JS this down!
+-[] HTML this middle!
+-[] Add a blog!
+-[x] Add home page
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JCoderLi/jcoderli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
