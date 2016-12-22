@@ -8,4 +8,4 @@
 ## VACATION JOURNALS
 
 ### LAS VEGAS:
-- COMING VERY SOON TODAY
+- [Day 1](https://jcoderli.github.io/journal/vacations/2016/las-vegas/day1)
