@@ -1,4 +1,4 @@
-| :Log number   | Time          |
+| Log number   | Time          |
 |-------------|------------|
 | 1             | 19:13         |
 
