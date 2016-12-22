@@ -11,5 +11,9 @@ The third most probably reason you are here is because you want to see my blog o
 around here and piece together who I am. How? Well I have a pretty good way, but **NOT SHARING THAT HERE**.
 But, if you want to check out my _**journal**_ here! https://jcoderli.github.io/journal
 
+### LOGS:
+Now, I am experimenting with GitHub flavored Markdown and HTML to see if I can combine them! I prefer you do not spoil what will happen as I am interested in this. This would be like spoiling a science fair experiment!
+Check 'em out [here](https://jcoderli.github.io/logs)!
+
 ### Make sure to bookmark this page!
 
