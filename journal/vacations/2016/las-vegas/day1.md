@@ -1,4 +1,5 @@
 # DAY 1:
+
 ### 13:27
 
 Well, it seems like it's going to be a while. Right now, we're driving to pick up mom. *yawn*
