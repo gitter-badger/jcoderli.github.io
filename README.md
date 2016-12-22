@@ -9,6 +9,7 @@ that are "raw" on my site at this moment. I really think this is a bad idea, pro
 ### Blog?
 The third most probably reason you are here is because you want to see my blog on here. Well... Here's the problem. Anyone random can scroll
 around here and piece together who I am. How? Well I have a pretty good way, but **NOT SHARING THAT HERE**.
-But, if you want to check out my _**journal**_ https://jcoderli.github.io/journal
-### *Make sure to bookmark this page!*
+But, if you want to check out my _**journal**_ here! https://jcoderli.github.io/journal
+
+### Make sure to bookmark this page!
 
