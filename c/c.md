@@ -7,5 +7,5 @@
  
  ## ASK Insert name here
   Idiot: Hey, Insert, a friend of mine says that if I microwave a electroic, it will be fully charged when I take it out of the mircowave, Is this true?
-  Insert: Yes, Go do it.
+  Insert: Yes, Go do it. 
   
