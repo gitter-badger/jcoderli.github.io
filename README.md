@@ -17,4 +17,7 @@ Check 'em out [here](https://jcoderli.github.io/logs)!
 
 ### Make sure to bookmark this page!
 
+
 ###### Need to contact me? Click [here.](https://jcoderli.github.io/contact)
+
+###### Want to explore all the goodies of the site? Go and check out the [sitemap](https://jcoderli.github.io/sitemap)
