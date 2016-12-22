@@ -1,5 +1,6 @@
 # DAY 1:
 ### 13:27
+
 Well, it seems like it's going to be a while. Right now, we're driving to pick up mom. *yawn*
 Nothing interesting so far. Dad's starting to lose some memory. I mean, he remembered to get our passport, but doesn't remember whether he closed the garage door. Hopefully, he did.
 
@@ -20,3 +21,10 @@ Right now, I'm at the airport and met up with some friends. I think we'll board 
 *sigh*
 This is going to be a while of waiting.
 Meh, I guess it's better than 2 hours??
+
+### 15:30
+
+Time flies! It seems like it was only 35 minutes. Maybe it was :Ooooo
+
+So, Delta airlines has announced the normal safety procedures and one of them was that Samsung Note 7's are strictly banned.
+Just *HAD* to state that :P
