@@ -4,16 +4,18 @@
 
 
 
-    Using GitHub flavored MarkDown and
-    HTML by using the same name, but different file extensions.
+    'Using GitHub flavored MarkDown and
+    HTML by using the same name, but different file extensions.'
 ---
-Two files named markdown are created in https://github.com/JCoderLi/jcoderli.github.io/blob/master/test/markdown.md as shown.
+
+Two files named markdown are created [here](https://github.com/JCoderLi/jcoderli.github.io/blob/master/test/markdown.md).
+
 Viewed 19:17.
 
-HTML DOCUMENT:
+# HTML DOCUMENT:
     <p>clap Clloopppp</p>
 
-MARKDOWN DOCUMENT:
+# MARKDOWN DOCUMENT:
     # Boop
     This is markdown.
 
@@ -22,3 +24,5 @@ clap Clloopppp
 
 ## RESULTS:
 HTML overrides Markdown.
+
+RETURN [HOME](https://jcoderli.github.io/) OR RETURN TO [LOGS](https://jcoderli.github.io/logs)
