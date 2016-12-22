@@ -1,5 +1,5 @@
 | :Log number   | Time          |
-| ------------- |: ------------:|
+|-------------|------------|
 | 1             | 19:13         |
 
     Using GitHub flavored MarkDown and HTML by using the same name, but different file extensions.
