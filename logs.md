@@ -13,4 +13,4 @@ This was a test to see if I could comine HTML and GFM together.
 I currently only have one log so far. It's this one:
 
 - [LOG 1](https://jcoderli.github.io/logs/htmlandmdtest1)
-
+- [LOG 2](https://jcoderli.github.io/logs/htmlandmdtest2)
