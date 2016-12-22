@@ -1,5 +1,7 @@
 # My try at a newspaper (IT'S ALL FAKE)
+
 ## Messed up names?
+
  According to research, the countries 'Greenland' and 'Iceland' have pretty messed up names, in fact they should be switched around. A researcher of the team 'ACT-1' says, "Well, actually, Greenland used to be green, but due to weather, Greenland was snowed, a lot. And - uh- I don't know about iceland, I think that people who settled there are lonely- I NEED FRIENDSSSSSSSSS" studies later show that the scientist was high on water. 
  
 ## Nokia Madness?
