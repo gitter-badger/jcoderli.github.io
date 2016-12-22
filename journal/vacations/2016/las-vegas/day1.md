@@ -12,7 +12,7 @@ I started on a sitemap. Hopefully it turns out well? It's bright and sunny and w
 ### 13:52
 
 The water is running out. The food supply is diminishing. Help.
-Just kidding ;). But, in all honesty, it's getting very boring in here. I might listen to some P!ATD, but even then I'll still be bored. I did bring soe trinkets, but that won't really help me that much. We picked up mom and now we're going on a highway. It's so hot outside, I'm pretty sure I'm going to get a tan on the left side of my face. As a joke, if I'm going to get tanned, cut out a piece of paper that reads "Help" and it'll leave my skin unburnt and it'll read help. We're parking now at a lot. In the mornings, it's usually freezing, but in the afternoon, whoo, hot af. And it's even late December!
+Just kidding ;). But, in all honesty, it's getting very boring in here. I might listen to some P!ATD, but even then I'll still be bored. I did bring some trinkets, but that won't really help me that much. We picked up mom and now we're going on a highway. It's so hot outside, I'm pretty sure I'm going to get a tan on the left side of my face. As a joke, if I'm going to get tanned, cut out a piece of paper that reads "Help" and it'll leave my skin unburnt and it'll read help. We're parking now at a lot. In the mornings, it's usually freezing, but in the afternoon, whoo, hot af. And it's even late December!
 
 The sitemap is done now!
 
