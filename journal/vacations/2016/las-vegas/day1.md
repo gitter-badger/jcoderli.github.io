@@ -29,3 +29,29 @@ Time flies! It seems like it was only 35 minutes. Maybe it was :Ooooo
 
 So, Delta airlines has announced the normal safety procedures and one of them was that Samsung Note 7's are strictly banned.
 Just *HAD* to state that :P
+
+### 16:22
+
+Delta decided to cancel it until now, but I guess the boarding has officially started! The problem is that they call all the, ew, premium people first.
+
+### 17:24
+
+After a wait of a million years, we were finally allowed to open our computers. Although I can still type this out, it's pretty obvious that I don't have Wifi. There's really nothing to talk about, just that I'm in an airplane. It *says* I have wifi, but I clearly don't, as "loading" a page doesn't do CRAP
+
+There's really no fun in **journal-ing** a page and not being able to load it to see if the heading is actually a heading not just a hashtag. I don't really know what to do. Atom is still fun no matter what, though!
+
+### 18:57
+
+It's been quite a bit of time. The food cart went aroud. I'm kinda tired *yawn*.
+Man, I wish I could sleep but SChem-
+Darn.
+I just spilled some water on my shirt. That's never good. It's a cold - well, moderate airplane.
+
+Looking to my right, I see so many people lined up to use the bathroom. Or whatever they're doing.
+Whatever they're doing, it takes a while for them. Only if there was a bigger restroom so everybody can poop and then leave.
+
+In Las Vegas!
+
+### 17:21
+
+Don't be fooled by the time, this _isn't_ tomorrow. I just want to say that I am IN LAS VEGAS! I might update at the hotel, but otherwise, just expect one more update!
