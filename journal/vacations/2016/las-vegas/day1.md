@@ -64,4 +64,4 @@ There is this one hotel that's a huge pyramid with lights and it just... it's ve
 
 Well, the time is clearly different than in Ohio, so I'm seriously feeling the jetlag over here.
 
-Feeling... kinda... tired... * . *
+Feeling... kinda... tired... * . *
