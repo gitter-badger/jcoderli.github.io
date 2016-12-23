@@ -55,3 +55,13 @@ In Las Vegas!
 ### 17:21
 
 Don't be fooled by the time, this _isn't_ tomorrow. I just want to say that I am IN LAS VEGAS! I might update at the hotel, but otherwise, just expect one more update!
+
+### 20:51
+
+Now at the hotel. It's really big. Las Vegas is basically known for the hotels they have. Well, I mean, it's fine, but I mean... the casinos. They smell. Not a good smell (I don't know why you would think that). They _REEK_ of cigarettes, alchohol and long dreary nights of losing money. That's just _one_ of the reasons I stay away from casinos.
+
+There is this one hotel that's a huge pyramid with lights and it just... it's very... extravagant... It's interesting to say the least.
+
+Well, the time is clearly different than in Ohio, so I'm seriously feeling the jetlag over here.
+
+Feeling... kinda... tired... *. *
