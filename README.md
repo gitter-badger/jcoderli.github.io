@@ -1,4 +1,6 @@
 # Welcome to JCoderLi.GitHub.io!
+
+[![Join the chat at https://gitter.im/jcoderli-github-io/Lobby](https://badges.gitter.im/jcoderli-github-io/Lobby.svg)](https://gitter.im/jcoderli-github-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This site is currently in development! If I have been inactive for a long time, go to my "real" [GitHub page](https://github.com/JCoderLi/jcoderli.github.io)
 I might have new page. Although I don't actually have a real page at this moment, you can check [my pulse](https://github.com/JCoderLi/jcoderli.github.io/pulse), and if you see a spike of inactivity... FEEL FREE TO SPAM ME AT githubjli@gmail.com!
 
