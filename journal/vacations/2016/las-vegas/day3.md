@@ -27,3 +27,6 @@ and spit it all back in.
 We never actually ended up going to the Hershey's factory. In exchange for that, we went to Caesar's Palace. It was fine and I ended up getting a trinket.
 
 Right now, my nose is stuffy and I really need to blow it ;-;.
+
+[Click here to return to home](https://jcoderli.github.io/)
+[Return to Las Vegas journals](https://jcoderli.github.io/vacations/2016/las-vegas)

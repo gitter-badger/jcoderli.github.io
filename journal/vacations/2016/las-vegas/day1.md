@@ -65,3 +65,6 @@ There is this one hotel that's a huge pyramid with lights and it just... it's ve
 Well, the time is clearly different than in Ohio, so I'm seriously feeling the jetlag over here.
 
 Feeling... kinda... tired... * . *
+
+[Click here to return to home](https://jcoderli.github.io/)
+[Return to Las Vegas journals](https://jcoderli.github.io/vacations/2016/las-vegas)

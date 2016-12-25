@@ -10,3 +10,4 @@
 ### LAS VEGAS:
 - [Day 1](https://jcoderli.github.io/journal/vacations/2016/las-vegas/day1)
 - [Day 2](https://jcoderli.github.io/journal/vacations/2016/las-vegas/day2)
+- [Day 3](https://jcoderli.github,io/journal/vacations/2016/las-vegas/day3)
