@@ -29,4 +29,5 @@ When we went outside, I felt fine, but my throat burned. After about 2-3 hours o
 Back at the hotel room, I dropped dead and fell asleep.
 
 [Click here to return to home](https://jcoderli.github.io/)
+
 [Return to Las Vegas journals](https://jcoderli.github.io/vacations/2016/las-vegas)

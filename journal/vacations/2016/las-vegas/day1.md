@@ -67,4 +67,5 @@ Well, the time is clearly different than in Ohio, so I'm seriously feeling the j
 Feeling... kinda... tired... * . *
 
 [Click here to return to home](https://jcoderli.github.io/)
+
 [Return to Las Vegas journals](https://jcoderli.github.io/vacations/2016/las-vegas)

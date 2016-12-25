@@ -29,4 +29,5 @@ We never actually ended up going to the Hershey's factory. In exchange for that,
 Right now, my nose is stuffy and I really need to blow it ;-;.
 
 [Click here to return to home](https://jcoderli.github.io/)
+
 [Return to Las Vegas journals](https://jcoderli.github.io/vacations/2016/las-vegas)
